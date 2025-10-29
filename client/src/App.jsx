@@ -30,7 +30,6 @@ const App = () => {
       bg-gradient-to-br from-indigo-100 via-rose-100 to-amber-100
       overflow-auto"
     >
-      {/* Left Section */}
       <div
         className="w-full md:w-[30%] bg-white rounded-t-2xl shadow-xl 
         p-4 md:p-6 
@@ -39,7 +38,7 @@ const App = () => {
         <BasicInfo info={profileData.basicInfo} />
       </div>
 
-      {/* Right Section */}
+  
       <div
         className="w-full md:w-[70%] bg-white rounded-t-2xl shadow-xl 
         flex flex-col gap-6 p-4 md:p-6
