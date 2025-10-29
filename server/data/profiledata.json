@@ -1,0 +1,77 @@
+{
+  "basicInfo": {
+    "profile_picture": "https://randomuser.me/api/portraits/men/75.jpg",
+    "name": "Kabir Singh",
+    "title": "Web developer",
+    "about": "A passionate full-stack developer skilled in React, Node.js, and Python, creating innovative web solutions with creativity and precision.",
+    "age": "23",
+    "experience": "1 year",
+    "phone_no": "+91 9876543210",
+    "email": "Kabir@example.com",
+    "ctc": "3.5 LPA",
+    "location": "Delhi, India",
+    "skills": ["Java", "JavaScript", "Python", "React", "Node.js"]
+  },
+
+  "education": [
+    {
+      "shortCode": "BCA",
+      "degree": "Bachelor of Computer Applications (BCA)",
+      "college": "Pt. Jawahar Lal Nehru College",
+      "duration": "2020 - 2023",
+      "location": "Faridabad, India"
+    },
+    {
+      "shortCode": "MCA",
+      "degree": "Master of Computer Applications (MCA)",
+      "college": "Gurugram University",
+      "duration": "2023 - Pursuing",
+      "location": "Gurugram, India"
+    }
+  ],
+
+  "experience": [
+    {
+      "shortCode": "OI",
+      "company": "Ocean International",
+      "position": "Graphic Designer & Computer Operator",
+      "duration": "Jan 2025 - Jun 2025",
+      "location": "Surat, India"
+    },
+    {
+      "shortCode": "SF",
+      "company": "Spitfire",
+      "position": "CorelDRAW Designer",
+      "duration": "May 2024 - Oct 2024",
+      "location": "Surat, India"
+    },
+    {
+      "shortCode": "CA",
+      "company": "CodeAlpha",
+      "position": "Web Developer Intern",
+      "duration": "Feb 2024 - Apr 2024",
+      "location": "Remote"
+    }
+  ],
+
+  "projects": [
+    {
+      "shortCode": "CH",
+      "name": "Crypto Hub",
+      "description": "A live cryptocurrency tracking app showing real-time data and market stats using CoinGecko API.",
+      "tech": "React, Tailwind CSS, CoinGecko API"
+    },
+    {
+      "shortCode": "BL",
+      "name": "Book Library",
+      "description": "A responsive online book search and favorite system using Open Library API.",
+      "tech": "React, Context API, Open Library API"
+    },
+    {
+      "shortCode": "MS",
+      "name": "Movie Streaming Website",
+      "description": "A clean movie streaming interface featuring categories, search, and routing using TMDB API.",
+      "tech": "React, TMDB API, React Router"
+    }
+  ]
+}
